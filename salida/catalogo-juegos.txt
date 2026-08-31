@@ -1,0 +1,34 @@
+CATÁLOGO DE JUEGOS DE MESA
+===========================
+Cantidad de juegos: 4Juego:1 TACO GATO CABRA QUESO PIZZA
+Editorial: BURO
+Año: 2020
+jugadores minimos: 2
+jugadores maximos: 8
+ Categorias: Juego de Mesa, Party Game
+disponible: Disponible
+
+Juego:2 El Laberinto Mágico
+Editorial: Devire
+Año: 2023
+jugadores minimos: 2
+jugadores maximos: 4
+ Categorias: Juego de Mesa, infantiles
+disponible: Disponible
+
+Juego:3 Espionaje Cartas
+Editorial: tettem
+Año: 2024
+jugadores minimos: 2
+jugadores maximos: 4
+ Categorias: Juego de Mesa, cartas, familiar
+disponible: Disponible
+
+Juego:4 Puzzle 3D - Book Nook Bookstore - Miniatura Book Nook De Librería
+Editorial: Rolife
+Año: 2024
+jugadores minimos: 1
+jugadores maximos: 10
+ Categorias: Juego de Mesa, Rompe Cabezas, familiar
+disponible: Disponible
+

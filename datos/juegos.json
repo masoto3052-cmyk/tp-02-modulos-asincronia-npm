@@ -1,0 +1,48 @@
+
+[
+  {
+    "titulo": "TACO GATO CABRA QUESO PIZZA",
+    "editorial": "BURO",
+    "anio": 2020,
+    "jugadoresMin": 2,
+    "jugadoresMax": 8,
+    "categorias": ["Juego de Mesa", "Party Game"],
+    "disponible": true
+  },
+
+
+
+  {
+    "titulo": "El Laberinto Mágico",
+    "editorial":"Devire",
+    "anio": 2023,
+    "jugadoresMin": 2,
+    "jugadoresMax": 4,
+    "categorias": ["Juego de Mesa", "infantiles"],
+    "disponible": true
+  },
+
+
+
+  {
+    "titulo": "Espionaje Cartas",
+    "editorial": "tettem",
+    "anio": 2024,
+    "jugadoresMin": 2,
+    "jugadoresMax": 4,
+    "categorias": ["Juego de Mesa", "cartas" ,"familiar"],
+    "disponible": true
+  },
+
+
+
+  {
+    "titulo": "Puzzle 3D - Book Nook Bookstore - Miniatura Book Nook De Librería",
+    "editorial": "Rolife",
+    "anio": 2024,
+    "jugadoresMin": 1,
+    "jugadoresMax": 10,
+    "categorias": ["Juego de Mesa", "Rompe Cabezas" ,"familiar"],
+    "disponible": true
+  }
+]
